@@ -1,6 +1,16 @@
+# Models Directories
 **/distilbert-base-uncased-finetuned-imdb-accelerate/
 **/distilbert-base-uncased-finetuned-imdb/
 **/bert-finetuned-ner/
+**/marian-finetuned-kde4-en-to-ar/
+
+# Training Checkpoints
 **/checkpoint-*/
+
+# Notebook & Environment Artifacts
 **/.ipynb_checkpoints/
-**/datasets-issues.jsonl
+**/*.jsonl
+
+# Large Weights Files (Fallback)
+*.safetensors
+*.bin

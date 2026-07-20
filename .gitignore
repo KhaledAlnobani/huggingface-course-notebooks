@@ -3,6 +3,7 @@
 **/distilbert-base-uncased-finetuned-imdb/
 **/bert-finetuned-ner/
 **/marian-finetuned-kde4-en-to-ar/
+**/mt5-small-finetuned-amazon-en-es/
 
 # Training Checkpoints
 **/checkpoint-*/
